@@ -1,4 +1,4 @@
-<h1 align='center'>GiveForever</h1>
+<h1 align='center'>DEV COIN</h1>
 
 <h1 align="center">
   <img src="./public/demo.png" alt="">
@@ -6,11 +6,7 @@
 
 ## About 🚀
 
-GiveForever is a revolutionary charity platform built on the power of Web3 technology, leveraging Solidity and React to create a transparent, secure, and efficient ecosystem for charitable donations. Our mission is to empower donors and charitable organizations by providing a decentralized platform that ensures every contribution is traceable and impactful.
-
-With GiveForever, donors can directly connect with causes they care about, track their donations in real-time, and see the tangible results of their generosity. Using smart contracts written in Solidity, we ensure that funds are distributed exactly as intended, eliminating the need for intermediaries and reducing administrative costs.
-
-Our React-based user interface offers a seamless and intuitive experience, making it easy for users to explore various charitable projects, contribute funds, and monitor the impact of their donations. Join us in transforming the way the world gives, making every donation count with GiveForever.
+DevCoin is a blockchain-based application that leverages React, Solidity, and Ethers.js to create, manage, and interact with an ERC20 token. The project is designed to provide users with an intuitive interface to handle DevCoin transactions, view transaction histories, and interact with the DevCoin smart contract seamlessly.
 
 ---
 
